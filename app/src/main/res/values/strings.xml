@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Prueba de ingreso</string>
+    <string name="icon">icon</string>
+    <string name="show_posts">ver publicaciones</string>
+    <string name="find_users">Buscar usuarios</string>
+    <string name="empty_list">Lista vacia</string>
+</resources>
